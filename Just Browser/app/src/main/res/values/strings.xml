@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Just Browser</string>
+
+    <string name="placeholder_todo">TODO</string>
+    <string name="placeholder_url">https://www.baidu.com</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_tab_welcome">New Tab</string>
+
+    <string name="start">START</string>
+    <string name="no_picture_mode">No Graph mode</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+    <string name="quit">Exit</string>
+
+    <string name="search_or_type_url">search or type url</string>
+
+    <string name="warn_invalid_url">Enter valid Address</string>
+
+</resources>
